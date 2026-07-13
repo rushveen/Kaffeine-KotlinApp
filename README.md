@@ -70,7 +70,7 @@ To run this project, you will need to set up your own Firebase project.
 
 ## 🧑‍💻 Developed By
 
-**Maliha Haider**
+**Rushveen bint-e-Shahid**
 
 
 ## 🤝 Contributing
